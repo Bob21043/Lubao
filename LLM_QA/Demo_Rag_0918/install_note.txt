@@ -1,0 +1,8 @@
+# llama-cpp-python Cuda 安裝
+llama_cpp_python @ llama_cpp_python-0.3.4-cp310-cp310-win_amd64.whl
+# 下載連結 找"v0.3.4-cu121" 下載
+>>https://github.com/abetlen/llama-cpp-python/releases
+
+# torch Cuda 安裝
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
