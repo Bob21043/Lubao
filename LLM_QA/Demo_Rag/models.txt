@@ -1,0 +1,5 @@
+LLM_model:YorkieOH10/Meta-Llama-3.1-8B-Instruct-hf-Q4_K_M-GGUF 
+下載連結 @https://huggingface.co/YorkieOH10/Meta-Llama-3.1-8B-Instruct-hf-Q4_K_M-GGUF
+
+embedding_model:intfloat/multilingual-e5-small 
+下載連結 @https://huggingface.co/intfloat/multilingual-e5-small
